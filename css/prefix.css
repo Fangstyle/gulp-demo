@@ -1,0 +1,10 @@
+/*使用postcss来增加前缀  例如 box-shadow => -webkite-box-shadow*/
+.container1{
+    box-shadow: 1px 1px red;
+}
+.container2{
+    text-shadow: 1px 1px red;
+}
+.container2{
+    transition: width 1s ease 1s;
+}

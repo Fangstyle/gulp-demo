@@ -1,0 +1,9 @@
+.container{
+    .container2{
+        -webkit-transition: all 1s ease 1s;
+        transition: all 1s ease 1s;
+        box-shadow: 1px 1px red;
+        -webkit-transform: rotate(30deg);
+                transform: rotate(30deg);
+    }
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["prefix.scss"],"names":[],"mappings":"AAAA;IACI;QACI,mCAA2B;QAA3B,2BAA2B;QAC3B,wBAAwB;QACxB,iCAAyB;gBAAzB,yBAAyB;KAC5B;CACJ","file":"prefix.scss","sourcesContent":[".container{\n    .container2{\n        transition: all 1s ease 1s;\n        box-shadow: 1px 1px red;\n        transform: rotate(30deg);\n    }\n}"]}

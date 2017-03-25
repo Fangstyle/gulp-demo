@@ -1,0 +1,12 @@
+/*使用postcss来增加前缀  例如 box-shadow => -webkite-box-shadow*/
+.container1{
+    box-shadow: 1px 1px red;
+}
+.container2{
+    text-shadow: 1px 1px red;
+}
+.container2{
+    -webkit-transition: width 1s ease 1s;
+    transition: width 1s ease 1s;
+}
+/*# sourceMappingURL=prefix.css.map */
